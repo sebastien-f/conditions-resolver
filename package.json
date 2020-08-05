@@ -4,7 +4,8 @@
   "description": "A library to resolve conditions against objects, in a safe way.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "build": "tsc"
   },
   "author": "",
   "license": "ISC",
