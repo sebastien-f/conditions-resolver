@@ -1,0 +1,23 @@
+{
+  "name": "conditions-resolver",
+  "version": "1.0.0",
+  "description": "A library to resolve conditions against objects, in a safe way.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^26.0.8",
+    "jest": "^26.2.2",
+    "ts-jest": "^26.1.4",
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "@types/acorn": "^4.0.5",
+    "@types/lodash.isfunction": "^3.0.6",
+    "acorn": "^7.3.1",
+    "lodash.isfunction": "^3.0.9"
+  }
+}
